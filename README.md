@@ -2,7 +2,7 @@
 
 A League of Legends stats and match-tracking web application, inspired by op.gg and u.gg.
 
-Resolutio lets players fetch their stats by inserting their personal API key to view match history, champion statistics, rank progress, and other performance data — similar to tools like op.gg or u.gg, but built as an personal project for school.
+Resolutio lets players fetch their stats by inserting their personal API key to view match history, champion statistics, rank progress, and other performance data - similar to tools like op.gg or u.gg, but built as an personal project for school.
 
 ## Status
 
