@@ -10,16 +10,17 @@ Currently aiming for it to be a web application for a school project, running on
 
 ## Roadmap this year
 
-- [ ] Understand Riot's API
-- [ ] Design front end in Figma
-- [ ] Log-in + API key
-- [ ] Listing stats, winrates etc.
+- [ ] Learn Riot's API and data structures
+- [ ] Design frontend in Figma
+- [ ] Implement login and Riot API key integration
+- [ ] Display match stats, win rates, and related metrics
+- [ ] Integrate frontend and backend into a working application
       
 ## Roadmap for next year
 
 - [ ] Upgrade to a production Riot API key for larger-scale use
 - [ ] Package as a desktop client (Electron)
-- [ ] In-game overlay for live stats
+- [ ] In-game overlay for live stats (Itero-like?)
 
 ## Tech Stack
 
