@@ -24,6 +24,6 @@ Currently aiming for it to be a web application for a school project, running on
 ## Tech Stack
 
 - **Frontend:** React (planned Electron packaging for desktop)
-- **Backend:** Node.js — handles API requests, data processing, and communication with the database
+- **Backend:** Node.js - handles API requests, data processing, and communication with the database
 - **Data Source:** Riot Games Developer API
 - **Database:** MariaDB
