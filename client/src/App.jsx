@@ -6,8 +6,8 @@ function App() {
   useEffect(() => {
     fetch('/api/health')
       .then((res) => res.json())
-      .then((data) => setStatus(data.ok ? 'Backend běží ✅' : 'Backend odpověděl divně'))
-      .catch(() => setStatus('Backend není dostupný ❌'))
+      .then((data) => setStatus(data.ok ? 'Backend běží' : 'Backend odpověděl divně'))
+      .catch(() => setStatus('Backend není dostupný'))
   }, [])
 
   return (
